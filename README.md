@@ -31,13 +31,12 @@ GET http://localhost:8080/order-service/orders
 ## 📌 활용 목적
 
 - MSA 아키텍처 학습
-
 - 클라우드 이전 테스트
-
 - 사내 서비스 분산 구조 시뮬레이션
 
 ## 🙋‍♂️ About Me
-신용철 (Yongchul Shin)
-전 서든어택 프로게이머 → 백엔드 개발자
-GitHub: github.com/yongchulShin
-Email: prozernim@gmail.com
+
+신용철 (Yongchul Shin)  
+전 서든어택 프로게이머 → 백엔드 개발자  
+GitHub: github.com/yongchulShin  
+Email: prozernim@gmail.com  
