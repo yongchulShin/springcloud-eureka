@@ -25,7 +25,7 @@
 
 ## 🌐 API 예시
 
-GET http://localhost:8080/user-service/users
+GET http://localhost:8080/user-service/users  
 GET http://localhost:8080/order-service/orders
 
 ## 📌 활용 목적
